@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://api.ap.org/v2/reports</id>
+  <link rel="next" href="https://api.ap.org/v2/reports?test=TRUE&amp;minDateTime=2016-09-26T15%3a03%3a50.000Z" />
+  <title>Election Reports</title>
+  <updated>2016-09-27T22:55:36.447Z</updated>
+  <author>
+    <name>The Associated Press</name>
+    <uri>http://www.ap.org</uri>
+  </author>
+  <rights>Copyright 2015 The Associated Press. All rights reserved.</rights>
+  <entry>
+    <id>https://api.ap.org/v2/reports/efe50a897bb54c3f89cdcc2e98c05353</id>
+    <title>Trend / g / test / US</title>
+    <updated>2016-09-26T15:03:50Z</updated>
+    <published>2016-11-08</published>
+    <category term="Trend" scheme="https://api.ap.org/cv/type/" />
+    <category term="g" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <category term="US" scheme="https://api.ap.org/cv/geo/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/efe50a897bb54c3f89cdcc2e98c05353" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/c87bed73035b4bdd91741631c439f984</id>
+    <title>Trend / h / test / US</title>
+    <updated>2016-09-26T15:03:50Z</updated>
+    <published>2016-11-08</published>
+    <category term="Trend" scheme="https://api.ap.org/cv/type/" />
+    <category term="h" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <category term="US" scheme="https://api.ap.org/cv/geo/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/c87bed73035b4bdd91741631c439f984" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/f6b55badcb5d45a1b93d0378f6f7bfb6</id>
+    <title>Trend / s / test / US</title>
+    <updated>2016-09-26T15:03:50Z</updated>
+    <published>2016-11-08</published>
+    <category term="Trend" scheme="https://api.ap.org/cv/type/" />
+    <category term="s" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <category term="US" scheme="https://api.ap.org/cv/geo/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/f6b55badcb5d45a1b93d0378f6f7bfb6" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/f0f79f2c85264f9b9b8cd0534fbebeb4</id>
+    <title>Pres / pres_summary / test / US</title>
+    <updated>2016-09-26T15:03:48Z</updated>
+    <published>2016-11-08</published>
+    <category term="Pres" scheme="https://api.ap.org/cv/type/" />
+    <category term="pres_summary" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <category term="US" scheme="https://api.ap.org/cv/geo/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/f0f79f2c85264f9b9b8cd0534fbebeb4" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/67a8ed1f04ef41b0beb3a9e924b21d30</id>
+    <title>Pres / pres_summary_all / test / US</title>
+    <updated>2016-09-26T15:03:48Z</updated>
+    <published>2016-11-08</published>
+    <category term="Pres" scheme="https://api.ap.org/cv/type/" />
+    <category term="pres_summary_all" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <category term="US" scheme="https://api.ap.org/cv/geo/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/67a8ed1f04ef41b0beb3a9e924b21d30" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/4818471f35554fee8a94b23b70d4e909</id>
+    <title>Pres / statebystate_pres / test / US</title>
+    <updated>2016-09-26T15:03:48Z</updated>
+    <published>2016-11-08</published>
+    <category term="Pres" scheme="https://api.ap.org/cv/type/" />
+    <category term="statebystate_pres" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <category term="US" scheme="https://api.ap.org/cv/geo/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/4818471f35554fee8a94b23b70d4e909" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/008d8c75023544579fd750e9c945dc9b</id>
+    <title>Delegates / delstate / test</title>
+    <updated>2016-06-13T14:01:20Z</updated>
+    <category term="Delegates" scheme="https://api.ap.org/cv/type/" />
+    <category term="delstate" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/008d8c75023544579fd750e9c945dc9b" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/c612231a3d104f9eb34f2cfe4523dcbf</id>
+    <title>Delegates / delsum / test</title>
+    <updated>2016-06-13T14:01:20Z</updated>
+    <category term="Delegates" scheme="https://api.ap.org/cv/type/" />
+    <category term="delsum" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/c612231a3d104f9eb34f2cfe4523dcbf" />
+  </entry>
+  <entry>
+    <id>https://api.ap.org/v2/reports/eefc9454b9a1445eb4bb3f74cadafe9a</id>
+    <title>Delegates / delsuper / test</title>
+    <updated>2016-06-13T14:01:20Z</updated>
+    <category term="Delegates" scheme="https://api.ap.org/cv/type/" />
+    <category term="delsuper" scheme="https://api.ap.org/cv/subtype/" />
+    <category term="true" scheme="https://api.ap.org/cv/test/" />
+    <content type="application/xml" src="https://api.ap.org/v2/reports/eefc9454b9a1445eb4bb3f74cadafe9a" />
+  </entry>
+</feed>
