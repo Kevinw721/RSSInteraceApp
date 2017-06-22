@@ -80,7 +80,7 @@ namespace WindowsFormsApplication1
             {
                 using (System.Net.WebClient client = new System.Net.WebClient())
                 {
-                    string downloadedXml= client.DownloadString(myURL); //Pull xml from AP Website 
+                    string downloadedXml = client.DownloadString(myURL); //Pull xml from AP Website 
 
                     PullStatus.Text = "Pull Complete";
                     Update();
@@ -91,18 +91,19 @@ namespace WindowsFormsApplication1
             }
             catch (System.Net.WebException e)
             {
-                if(e.Status == System.Net.WebExceptionStatus.ProtocolError)
+                if (e.Status == System.Net.WebExceptionStatus.ProtocolError)
                 {
                     PullStatus.Text = "Protocol Error " + e.Message;
                     Update();
-                }else
+                }
+                else
                 {
                     PullStatus.Text = "Pull Error";
                     Update();
                 }
-                
+
             }
-        return null;
+            return null;
         }
 
         private void saveXMLDoc(XmlDocument xmlDoc, string filePath)
@@ -123,7 +124,8 @@ namespace WindowsFormsApplication1
         {
             PullStatus.Text = "Formatting";
             Update();
-            if (!ProtoTypeXmlForm.MainNode.HasChildNodes) {
+            if (!ProtoTypeXmlForm.MainNode.HasChildNodes)
+            {
                 MessageBox.Show("Prototype Xml not found, please pull.");
                 PullStatus.Text = "Formatting Failed: Prototype Xml Missing";
                 Update();
@@ -147,7 +149,7 @@ namespace WindowsFormsApplication1
                     localFilePathDisplay.Text = myFilePath;
                 }
             }
-            
+
         }
 
         private void SetImageFolder_Click(object sender, EventArgs e)
@@ -187,7 +189,7 @@ namespace WindowsFormsApplication1
 
 
                 timeLeftLabel.Text = result.ToString();
-                progressBarTillPull.Value = 100 * tillNextPull / pullInterval_seconds ;
+                progressBarTillPull.Value = 100 * tillNextPull / pullInterval_seconds;
 
             }
             else

@@ -82,7 +82,7 @@ namespace WindowsFormsApplication1
         }
         private static void AddVotePercentToCandidates(XmlNodeList candidates, double totalVotes)
         {
-            foreach(XmlNode candidate in candidates)
+            foreach (XmlNode candidate in candidates)
             {
                 double VotePercent = Math.Round(100 * Double.Parse(candidate.Attributes["VoteCount"].Value) / totalVotes, 1);
                 candidate.AddAttribute("VotePercent", VotePercent.ToString());
