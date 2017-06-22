@@ -50,3 +50,16 @@ C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\WindowsFormsApplication1\Windows
 C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AP Elections Interface.application
 C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AP Elections Interface.exe
 C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AP Elections Interface.pdb
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\bin\Debug\AP Elections Interface.exe.config
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\bin\Debug\AP Elections Interface.exe.manifest
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\bin\Debug\AP Elections Interface.application
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\bin\Debug\AP Elections Interface.exe
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\bin\Debug\AP Elections Interface.pdb
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\APElectionsInterface.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\APElectionsInterface.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\AP Elections Interface.exe.manifest
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\AP Elections Interface.application
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\AP Elections Interface.exe
+C:\Users\Kevin\Documents\GitHub\RSSInterfaceApp\APElectionsInterfaceForm\APElectionsInterfaceFormRef\obj\Debug\AP Elections Interface.pdb
