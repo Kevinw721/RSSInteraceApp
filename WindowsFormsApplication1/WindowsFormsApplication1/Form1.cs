@@ -15,7 +15,7 @@ namespace WindowsFormsApplication1
     public partial class Form1 : Form
     {
         private string APURL = "https://api.ap.org/v2/elections/{electionDate}?apikey={APIKey}[{OtherParameters}]";
-        private string APIKey = "c2lLrKdtiNw1dGu62tPi4YPYamH0jE4L";
+        private string APIKey = "NA";
         private string ElectionDate = "2016-11-08";
 
         private XmlForm ProtoTypeXmlForm = new XmlForm("Prototype");
